@@ -40,7 +40,7 @@
 
 
 
-!\[salary](./images/salary.png)
+![salary](./images/salary.png)
 
 
 
@@ -72,7 +72,7 @@
 
 
 
-!\[city](./images/city.png)
+![city](./images/city.png)
 
 
 
