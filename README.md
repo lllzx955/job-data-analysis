@@ -56,7 +56,7 @@
 
 
 
-!\[salary](./images/salary.png)
+![skills](./images/skills.png)
 
 
 
